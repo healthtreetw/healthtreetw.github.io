@@ -1,6 +1,6 @@
 ﻿{
     "description":  "已發布文章 URL 資料庫，供週報與月報去重比對使用",
-    "last_updated":  "2026-07-31",
+    "last_updated":  "2026-08-02",
     "urls":  [
                  "https://healthtree.org/blood-cancer/community/articles/26-mrd-and-wgs-gamechangers-in-myeloma",
                  "https://healthtree.org/myeloma/community/articles/26-fda-approves-teclistamab-daratumumab-myeloma",
@@ -70,7 +70,10 @@
                  "https://www.myeloma.org/news-events/multiple-myeloma-news/landmark-ecog-acrin-endurance-study-co-authored-international-myeloma-foundation-leaders-provides",
                  "https://www.tbmta.org.tw/_admin/upload/8adc3745df22b943ccd948f7eebc9328.pdf",
                  "https://knowledge.ecancer.org.tw/knowledge/useful_tool/for_dummies/yloif?point_area=relative_area",
-                 "http://www.kbdca.or.kr/bbs/board.php?tbl=bbs224\u0026mode=VIEW\u0026num=147"
+                 "http://www.kbdca.or.kr/bbs/board.php?tbl=bbs224\u0026mode=VIEW\u0026num=147",
+                 "https://drive.google.com/file/d/1KW-VayxDYr7H7V2iv1d2FNJts1oAElKO/view?usp=sharing",
+                 "https://www.medifonews.com/news/article.html?no=212077",
+                 "https://www.bloodcancerforum.jp/interview/20251224"
              ],
     "notes":  "3月月報部分條目無 URL（閱讀原文為純文字），僅收錄 4 月月報可確認的完整 URL。3月月報無 URL 條目主題已列於 title_keywords 供標題比對備用。",
     "title_keywords":  [

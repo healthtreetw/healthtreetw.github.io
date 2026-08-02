@@ -9,7 +9,7 @@
     "2026-06",
     "2026-07"
   ],
-  "topic_count": 91,
+  "topic_count": 94,
   "topics": [
     {
       "topic_id": "topic-cfbc8764c072",
@@ -1616,6 +1616,27 @@
       ]
     },
     {
+      "topic_id": "topic-a750fb0dc9f5",
+      "title": "Anito-cel：研發中的 BCMA CAR-T 治療新選項",
+      "normalized_title": "anitocel研發中的bcmacart治療新選項",
+      "title_aliases": [],
+      "urls": [
+        "https://drive.google.com/file/d/1KW-VayxDYr7H7V2iv1d2FNJts1oAElKO/view?usp=sharing"
+      ],
+      "keywords": [
+        "bcma",
+        "car-t",
+        "骨髓瘤"
+      ],
+      "first_published": "2026-07",
+      "report_slugs": [
+        "2026-07-27-mm-weekly"
+      ],
+      "sources": [
+        "香港多發性骨髓瘤關懷協會 HKMCS"
+      ]
+    },
+    {
       "topic_id": "topic-78ed8e304ca4",
       "title": "DREAMM-8 長期追蹤：持續 MRD 陰性與較佳疾病控制相關",
       "normalized_title": "dreamm8長期追蹤持續mrd陰性與較佳疾病控制相關",
@@ -1832,6 +1853,25 @@
       ]
     },
     {
+      "topic_id": "topic-ee0e11241266",
+      "title": "病友選擇不接受自體移植：治療決策也要納入生活價值",
+      "normalized_title": "病友選擇不接受自體移植治療決策也要納入生活價值",
+      "title_aliases": [],
+      "urls": [
+        "https://www.bloodcancerforum.jp/interview/20251224"
+      ],
+      "keywords": [
+        "骨髓瘤"
+      ],
+      "first_published": "2026-07",
+      "report_slugs": [
+        "2026-07-27-mm-weekly"
+      ],
+      "sources": [
+        "日本 Blood Cancer Forum"
+      ]
+    },
+    {
       "topic_id": "topic-607b68328882",
       "title": "研究探討：兩項指標同時達進展標準，是否仍需等待第二次確認？",
       "normalized_title": "研究探討兩項指標同時達進展標準是否仍需等待第二次確認",
@@ -1889,6 +1929,27 @@
       ],
       "sources": [
         "HealthTree for Multiple Myeloma"
+      ]
+    },
+    {
+      "topic_id": "topic-d4505f1bce99",
+      "title": "韓國團隊公布新一代 BCMA ADC 前臨床研究成果",
+      "normalized_title": "韓國團隊公布新一代bcmaadc前臨床研究成果",
+      "title_aliases": [],
+      "urls": [
+        "https://www.medifonews.com/news/article.html?no=212077"
+      ],
+      "keywords": [
+        "adc",
+        "bcma",
+        "骨髓瘤"
+      ],
+      "first_published": "2026-07",
+      "report_slugs": [
+        "2026-07-27-mm-weekly"
+      ],
+      "sources": [
+        "韓國 MedifoNews"
       ]
     },
     {
