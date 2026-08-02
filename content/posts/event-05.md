@@ -16,7 +16,7 @@ draft = false
 <li><strong>日期：</strong>2026 年 8 月 31 日（星期一）</li>
 <li><strong>時間：</strong>下午 1 點 30 分到 4 點 30 分</li>
 <li><strong>地點：</strong>士林錫安堂二樓（台北捷運芝山站一號出口；到了 7-11 看有門鈴按二樓，門就會打開。）</li>
-<li><strong>主辦 / 協辦單位：</strong>MM 病友們 ／ 隨緣之友</li>
+<li><strong>主辦 / 協辦單位：</strong>MM 病友們 ／ 髓緣之友</li>
 <li><strong>名額：</strong>不限</li>
 </ul>
 
@@ -45,5 +45,11 @@ draft = false
 </table>
 
 <p>歡迎各位朋友一起來聚聚、認識其他朋友並交流資訊。</p>
+
+<h3 class="wp-block-heading">活動海報</h3>
+
+<figure style="margin:0;max-width:900px;">
+<img src="/images/2026/08/event-05/event-05-poster-web.webp" alt="2026 年 8 月 31 日 MM 多發性骨髓瘤病友交流會海報" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;">
+</figure>
 
 </div>
