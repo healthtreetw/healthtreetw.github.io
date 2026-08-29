@@ -1,5 +1,5 @@
 baseURL = 'https://healthtreetw.github.io/'
-title = 'HealthTree TW 醫療資訊備份站'
+title = 'HealthTree TW 醫療資訊'
 copyright = '版權所有 © 2026 MM 資訊平台 (Healtree Taiwan Connect)'
 theme = 'PaperMod'
 defaultContentLanguage = 'zh-tw'
@@ -21,7 +21,7 @@ buildExpired = false
 
 [params]
   env = "production"
-  description = "多發性骨髓瘤與日常保健國際資訊摘要（靜態備份站）"
+  description = "多發性骨髓瘤與日常保健國際資訊摘要"
   author = "HealthTree TW"
   defaultTheme = "light"
   disableThemeToggle = true
