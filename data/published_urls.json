@@ -1,6 +1,6 @@
 ﻿{
     "description":  "已發布文章 URL 資料庫，供週報與月報去重比對使用",
-    "last_updated":  "2026-08-02",
+    "last_updated":  "2026-09-21",
     "urls":  [
                  "https://healthtree.org/blood-cancer/community/articles/26-mrd-and-wgs-gamechangers-in-myeloma",
                  "https://healthtree.org/myeloma/community/articles/26-fda-approves-teclistamab-daratumumab-myeloma",
@@ -73,7 +73,11 @@
                  "http://www.kbdca.or.kr/bbs/board.php?tbl=bbs224\u0026mode=VIEW\u0026num=147",
                  "https://drive.google.com/file/d/1KW-VayxDYr7H7V2iv1d2FNJts1oAElKO/view?usp=sharing",
                  "https://www.medifonews.com/news/article.html?no=212077",
-                 "https://www.bloodcancerforum.jp/interview/20251224"
+                 "https://www.bloodcancerforum.jp/interview/20251224",
+                 "https://www.myelomasociety.org/ims-connect/ims-connect-july-31-2026/",
+                 "https://www.onclive.com/view/phase-1-data-highlight-potential-utility-for-in-vivo-car-t-cell-therapy-in-r-r-myeloma",
+                 "https://ashpublications.org/bloodadvances/article/doi/10.1182/bloodadvances.2026019699/568812/Targeting-BCMA-in-Patients-with-Relapsed",
+                 "https://www.jnj.com/media-center/press-releases/tecvayli-talvey-reduced-the-risk-of-disease-progression-or-death-by-89-and-the-risk-of-death-by-62-in-earlier-line-relapsed-refractory-multiple-myeloma"
              ],
     "notes":  "3月月報部分條目無 URL（閱讀原文為純文字），僅收錄 4 月月報可確認的完整 URL。3月月報無 URL 條目主題已列於 title_keywords 供標題比對備用。",
     "title_keywords":  [

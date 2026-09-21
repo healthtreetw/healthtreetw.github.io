@@ -7,9 +7,10 @@
     "2026-04",
     "2026-05",
     "2026-06",
-    "2026-07"
+    "2026-07",
+    "2026-08"
   ],
-  "topic_count": 94,
+  "topic_count": 98,
   "topics": [
     {
       "topic_id": "topic-cfbc8764c072",
@@ -1970,6 +1971,96 @@
       ],
       "sources": [
         "韓國血液癌症協會 KBDCA"
+      ]
+    },
+    {
+      "topic_id": "topic-38f12e94d234",
+      "title": "BCMA 導向治療選擇：CAR-T、雙特異性抗體與 ADC 各有取捨",
+      "normalized_title": "bcma導向治療選擇cart雙特異性抗體與adc各有取捨",
+      "title_aliases": [],
+      "urls": [
+        "https://ashpublications.org/bloodadvances/article/doi/10.1182/bloodadvances.2026019699/568812/Targeting-BCMA-in-Patients-with-Relapsed"
+      ],
+      "keywords": [
+        "adc",
+        "bcma",
+        "car-t",
+        "共同決策",
+        "骨髓瘤"
+      ],
+      "first_published": "2026-08",
+      "report_slugs": [
+        "2026-08-03-mm-weekly"
+      ],
+      "sources": [
+        "ASH Blood Advances"
+      ]
+    },
+    {
+      "topic_id": "topic-39b25059062d",
+      "title": "IMS Connect：孤立性漿細胞瘤、高風險骨髓瘤與新型雙特異性抗體追蹤",
+      "normalized_title": "imsconnect孤立性漿細胞瘤高風險骨髓瘤與新型雙特異性抗體追蹤",
+      "title_aliases": [],
+      "urls": [
+        "https://www.myelomasociety.org/ims-connect/ims-connect-july-31-2026/"
+      ],
+      "keywords": [
+        "mrd",
+        "骨髓瘤",
+        "高風險"
+      ],
+      "first_published": "2026-08",
+      "report_slugs": [
+        "2026-08-03-mm-weekly"
+      ],
+      "sources": [
+        "International Myeloma Society (IMS)"
+      ]
+    },
+    {
+      "topic_id": "topic-b4f7fd2bb6b3",
+      "title": "In vivo CAR-T：KLN-1010 早期研究顯示復發難治骨髓瘤治療潛力",
+      "normalized_title": "invivocartkln1010早期研究顯示復發難治骨髓瘤治療潛力",
+      "title_aliases": [],
+      "urls": [
+        "https://www.onclive.com/view/phase-1-data-highlight-potential-utility-for-in-vivo-car-t-cell-therapy-in-r-r-myeloma"
+      ],
+      "keywords": [
+        "bcma",
+        "car-t",
+        "mrd",
+        "骨髓瘤"
+      ],
+      "first_published": "2026-08",
+      "report_slugs": [
+        "2026-08-03-mm-weekly"
+      ],
+      "sources": [
+        "OncLive - Multiple Myeloma"
+      ]
+    },
+    {
+      "topic_id": "topic-aa05b919fa81",
+      "title": "TECVAYLI 加 TALVEY：雙標靶組合在較早線復發骨髓瘤取得第三期正面結果",
+      "normalized_title": "tecvayli加talvey雙標靶組合在較早線復發骨髓瘤取得第三期正面結果",
+      "title_aliases": [],
+      "urls": [
+        "https://www.jnj.com/media-center/press-releases/tecvayli-talvey-reduced-the-risk-of-disease-progression-or-death-by-89-and-the-risk-of-death-by-62-in-earlier-line-relapsed-refractory-multiple-myeloma"
+      ],
+      "keywords": [
+        "bcma",
+        "gprc5d",
+        "talquetamab",
+        "talvey",
+        "teclistamab",
+        "骨髓瘤"
+      ],
+      "first_published": "2026-08",
+      "report_slugs": [
+        "2026-08-03-mm-weekly"
+      ],
+      "sources": [
+        "Johnson & Johnson Myeloma"
       ]
     }
   ]
