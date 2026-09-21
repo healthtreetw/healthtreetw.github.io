@@ -1,16 +1,17 @@
 {
   "schema_version": 1,
   "description": "跨月份已發布主題索引，供週報候選在寫入前進行網址與語意去重。",
-  "last_updated": "2026-07-31",
+  "last_updated": "2026-09-21",
   "source_months": [
     "2026-03",
     "2026-04",
     "2026-05",
     "2026-06",
     "2026-07",
-    "2026-08"
+    "2026-08",
+    "2026-09"
   ],
-  "topic_count": 98,
+  "topic_count": 118,
   "topics": [
     {
       "topic_id": "topic-cfbc8764c072",
@@ -1974,6 +1975,26 @@
       ]
     },
     {
+      "topic_id": "topic-e3c0646a3ca2",
+      "title": "ASH Blood Neoplasia：研究指向 IMiD/CELMoD 抗藥性與脂質代謝變化",
+      "normalized_title": "ashbloodneoplasia研究指向imidcelmod抗藥性與脂質代謝變化",
+      "title_aliases": [],
+      "urls": [
+        "https://ashpublications.org/bloodneoplasia/first-edition"
+      ],
+      "keywords": [
+        "ash",
+        "骨髓瘤"
+      ],
+      "first_published": "2026-08",
+      "report_slugs": [
+        "2026-08-31-mm-weekly"
+      ],
+      "sources": [
+        "ASH Blood Neoplasia"
+      ]
+    },
+    {
       "topic_id": "topic-38f12e94d234",
       "title": "BCMA 導向治療選擇：CAR-T、雙特異性抗體與 ADC 各有取捨",
       "normalized_title": "bcma導向治療選擇cart雙特異性抗體與adc各有取捨",
@@ -1997,6 +2018,84 @@
       ]
     },
     {
+      "topic_id": "topic-6d618fe9f228",
+      "title": "CancerNet Japan 說明多發性骨髓瘤檢查：血液、尿液、骨髓與影像缺一不可",
+      "normalized_title": "cancernetjapan說明多發性骨髓瘤檢查血液尿液骨髓與影像缺一不可",
+      "title_aliases": [],
+      "urls": [
+        "https://www.cancernet.jp/cancer/blood/mm-inspection"
+      ],
+      "keywords": [
+        "骨髓瘤"
+      ],
+      "first_published": "2026-08",
+      "report_slugs": [
+        "2026-08-24-mm-weekly"
+      ],
+      "sources": [
+        "CancerNet Japan"
+      ]
+    },
+    {
+      "topic_id": "topic-7b3e59448d1c",
+      "title": "CancerNet Japan 說明多發性骨髓瘤治療原則與 CRAB 症狀",
+      "normalized_title": "cancernetjapan說明多發性骨髓瘤治療原則與crab症狀",
+      "title_aliases": [],
+      "urls": [
+        "https://www.cancernet.jp/cancer/blood/mm-treatment"
+      ],
+      "keywords": [
+        "骨髓瘤"
+      ],
+      "first_published": "2026-08",
+      "report_slugs": [
+        "2026-08-17-mm-weekly"
+      ],
+      "sources": [
+        "CancerNet Japan"
+      ]
+    },
+    {
+      "topic_id": "topic-e1d37a57ed9d",
+      "title": "HealthTree 解釋骨髓外疾病：骨髓瘤不一定只留在骨髓內",
+      "normalized_title": "healthtree解釋骨髓外疾病骨髓瘤不一定只留在骨髓內",
+      "title_aliases": [],
+      "urls": [
+        "https://healthtree.org/news/06-30-2026-understanding-extramedullary-disease"
+      ],
+      "keywords": [
+        "骨髓瘤",
+        "高風險"
+      ],
+      "first_published": "2026-08",
+      "report_slugs": [
+        "2026-08-17-mm-weekly"
+      ],
+      "sources": [
+        "HealthTree for Multiple Myeloma"
+      ]
+    },
+    {
+      "topic_id": "topic-73fa4a8728fc",
+      "title": "IMF 7 月期刊摘要：全球疾病負擔、免疫治療與風險評估仍是焦點",
+      "normalized_title": "imf7月期刊摘要全球疾病負擔免疫治療與風險評估仍是焦點",
+      "title_aliases": [],
+      "urls": [
+        "https://www.myeloma.org/news-events/multiple-myeloma-news/july-2026-myeloma-news-journals"
+      ],
+      "keywords": [
+        "car-t",
+        "骨髓瘤"
+      ],
+      "first_published": "2026-08",
+      "report_slugs": [
+        "2026-08-17-mm-weekly"
+      ],
+      "sources": [
+        "International Myeloma Foundation"
+      ]
+    },
+    {
       "topic_id": "topic-39b25059062d",
       "title": "IMS Connect：孤立性漿細胞瘤、高風險骨髓瘤與新型雙特異性抗體追蹤",
       "normalized_title": "imsconnect孤立性漿細胞瘤高風險骨髓瘤與新型雙特異性抗體追蹤",
@@ -2012,6 +2111,26 @@
       "first_published": "2026-08",
       "report_slugs": [
         "2026-08-03-mm-weekly"
+      ],
+      "sources": [
+        "International Myeloma Society (IMS)"
+      ]
+    },
+    {
+      "topic_id": "topic-ca14015dd3a2",
+      "title": "IMS Connect：高風險標準、SKY92 與雙特異性抗體排序研究持續更新",
+      "normalized_title": "imsconnect高風險標準sky92與雙特異性抗體排序研究持續更新",
+      "title_aliases": [],
+      "urls": [
+        "https://www.myelomasociety.org/ims-connect/ims-connect-august-14-2026/"
+      ],
+      "keywords": [
+        "骨髓瘤",
+        "高風險"
+      ],
+      "first_published": "2026-08",
+      "report_slugs": [
+        "2026-08-31-mm-weekly"
       ],
       "sources": [
         "International Myeloma Society (IMS)"
@@ -2040,6 +2159,67 @@
       ]
     },
     {
+      "topic_id": "topic-42d990d21577",
+      "title": "MPFJ 治驗資訊提醒：復發難治骨髓瘤臨床試驗需與主治醫師討論",
+      "normalized_title": "mpfj治驗資訊提醒復發難治骨髓瘤臨床試驗需與主治醫師討論",
+      "title_aliases": [],
+      "urls": [
+        "https://mpfj.org/ct_202508_01/"
+      ],
+      "keywords": [
+        "car-t",
+        "骨髓瘤"
+      ],
+      "first_published": "2026-08",
+      "report_slugs": [
+        "2026-08-24-mm-weekly"
+      ],
+      "sources": [
+        "日本骨髓腫患者の会 MPFJ"
+      ]
+    },
+    {
+      "topic_id": "topic-9af01885d034",
+      "title": "OncLive：雙特異性抗體能否走向社區照護，關鍵在安全流程與可近性",
+      "normalized_title": "onclive雙特異性抗體能否走向社區照護關鍵在安全流程與可近性",
+      "title_aliases": [],
+      "urls": [
+        "https://www.onclive.com/view/prophylactic-measures-and-access-gaps-define-the-push-to-deliver-bispecifics-closer-to-home-in-myeloma"
+      ],
+      "keywords": [
+        "骨髓瘤"
+      ],
+      "first_published": "2026-08",
+      "report_slugs": [
+        "2026-08-31-mm-weekly"
+      ],
+      "sources": [
+        "OncLive - Multiple Myeloma"
+      ]
+    },
+    {
+      "topic_id": "topic-53da7062165e",
+      "title": "Pfizer 管線顯示 ELREXFIO 正往更早線與維持治療情境延伸",
+      "normalized_title": "pfizer管線顯示elrexfio正往更早線與維持治療情境延伸",
+      "title_aliases": [],
+      "urls": [
+        "https://www.pfizer.com/science/oncology-cancer/pipeline"
+      ],
+      "keywords": [
+        "bcma",
+        "elranatamab",
+        "elrexfio",
+        "骨髓瘤"
+      ],
+      "first_published": "2026-08",
+      "report_slugs": [
+        "2026-08-10-mm-weekly"
+      ],
+      "sources": [
+        "Pfizer Oncology"
+      ]
+    },
+    {
       "topic_id": "topic-aa05b919fa81",
       "title": "TECVAYLI 加 TALVEY：雙標靶組合在較早線復發骨髓瘤取得第三期正面結果",
       "normalized_title": "tecvayli加talvey雙標靶組合在較早線復發骨髓瘤取得第三期正面結果",
@@ -2061,6 +2241,217 @@
       ],
       "sources": [
         "Johnson & Johnson Myeloma"
+      ]
+    },
+    {
+      "topic_id": "topic-51f97f37e173",
+      "title": "日本病友故事：臨床試驗參與背後，是希望也能幫助後來的人",
+      "normalized_title": "日本病友故事臨床試驗參與背後是希望也能幫助後來的人",
+      "title_aliases": [],
+      "urls": [
+        "https://www.bloodcancerforum.jp/interview/20250926"
+      ],
+      "keywords": [
+        "mgus",
+        "骨髓瘤"
+      ],
+      "first_published": "2026-08",
+      "report_slugs": [
+        "2026-08-24-mm-weekly"
+      ],
+      "sources": [
+        "日本 Blood Cancer Forum"
+      ]
+    },
+    {
+      "topic_id": "topic-bbfc3e03c176",
+      "title": "歐盟核准 TECVAYLI 加 daratumumab 用於較早線復發難治骨髓瘤",
+      "normalized_title": "歐盟核准tecvayli加daratumumab用於較早線復發難治骨髓瘤",
+      "title_aliases": [],
+      "urls": [
+        "https://www.jnj.com/innovativemedicine/emea/media-center/press-releases/european-commission-approves-johnson-johnsons-tecvayli-teclistamab-plus-daratumumab-for-relapsed-refractory-multiple-myeloma-offering-a-potential-new-standard-of-care"
+      ],
+      "keywords": [
+        "daratumumab",
+        "teclistamab",
+        "骨髓瘤"
+      ],
+      "first_published": "2026-08",
+      "report_slugs": [
+        "2026-08-31-mm-weekly"
+      ],
+      "sources": [
+        "Johnson & Johnson Myeloma"
+      ]
+    },
+    {
+      "topic_id": "topic-16f35bd4410e",
+      "title": "移植後長期追蹤照護研習會提醒 survivorship care 的重要性",
+      "normalized_title": "移植後長期追蹤照護研習會提醒survivorshipcare的重要性",
+      "title_aliases": [],
+      "urls": [
+        "https://www.tbmt.org.tw/publicUI/B/B10201.aspx?arg=8DED13FC5A86EB5071"
+      ],
+      "keywords": [
+        "骨髓瘤"
+      ],
+      "first_published": "2026-08",
+      "report_slugs": [
+        "2026-08-10-mm-weekly"
+      ],
+      "sources": [
+        "中華民國血液及骨髓移植學會"
+      ]
+    },
+    {
+      "topic_id": "topic-8a70987a5cac",
+      "title": "AbbVie etentamig 第三期 CERVINO 試驗達成雙主要終點",
+      "normalized_title": "abbvieetentamig第三期cervino試驗達成雙主要終點",
+      "title_aliases": [],
+      "urls": [
+        "https://www.thepharmaletter.com/biotech-news/abbvie-s-etentamig-hits-dual-primary-endpoints-in-phase-iii-relapsed-refractory-multiple-myeloma-trial"
+      ],
+      "keywords": [
+        "bcma",
+        "骨髓瘤"
+      ],
+      "first_published": "2026-09",
+      "report_slugs": [
+        "2026-09-07-mm-weekly"
+      ],
+      "sources": [
+        "The Pharma Letter"
+      ]
+    },
+    {
+      "topic_id": "topic-64b58bc30f23",
+      "title": "Blood Cancer Forum 持續提供血液癌線上教育與問答活動",
+      "normalized_title": "bloodcancerforum持續提供血液癌線上教育與問答活動",
+      "title_aliases": [],
+      "urls": [
+        "https://www.bloodcancerforum.jp/night"
+      ],
+      "keywords": [
+        "骨髓瘤"
+      ],
+      "first_published": "2026-09",
+      "report_slugs": [
+        "2026-09-21-mm-weekly"
+      ],
+      "sources": [
+        "日本 Blood Cancer Forum"
+      ]
+    },
+    {
+      "topic_id": "topic-530d925f247d",
+      "title": "CancerNet Japan 基礎介紹：多發性骨髓瘤是形質細胞的血液癌",
+      "normalized_title": "cancernetjapan基礎介紹多發性骨髓瘤是形質細胞的血液癌",
+      "title_aliases": [],
+      "urls": [
+        "https://www.cancernet.jp/cancer/blood/mm-about"
+      ],
+      "keywords": [
+        "骨髓瘤"
+      ],
+      "first_published": "2026-09",
+      "report_slugs": [
+        "2026-09-21-mm-weekly"
+      ],
+      "sources": [
+        "CancerNet Japan"
+      ]
+    },
+    {
+      "topic_id": "topic-be07cbf5324e",
+      "title": "HealthTree smoldering myeloma 交流活動：長期觀察也需要支持",
+      "normalized_title": "healthtreesmolderingmyeloma交流活動長期觀察也需要支持",
+      "title_aliases": [],
+      "urls": [
+        "https://healthtree.org/events/sep26-myeloma-mgus-smm-community-gather"
+      ],
+      "keywords": [],
+      "first_published": "2026-09",
+      "report_slugs": [
+        "2026-09-14-mm-weekly"
+      ],
+      "sources": [
+        "HealthTree for Multiple Myeloma"
+      ]
+    },
+    {
+      "topic_id": "topic-547a175d1781",
+      "title": "IMF 9 月新聞：GPRC5D CAR-T 與 etentamig 研究成為焦點",
+      "normalized_title": "imf9月新聞gprc5dcart與etentamig研究成為焦點",
+      "title_aliases": [],
+      "urls": [
+        "https://www.myeloma.org/news-events/multiple-myeloma-news"
+      ],
+      "keywords": [
+        "bcma",
+        "car-t",
+        "gprc5d",
+        "骨髓瘤"
+      ],
+      "first_published": "2026-09",
+      "report_slugs": [
+        "2026-09-14-mm-weekly"
+      ],
+      "sources": [
+        "International Myeloma Foundation"
+      ]
+    },
+    {
+      "topic_id": "topic-e568e30215e2",
+      "title": "OncLive Insights：前線與早期復發骨髓瘤管理更重視實務照護",
+      "normalized_title": "oncliveinsights前線與早期復發骨髓瘤管理更重視實務照護",
+      "title_aliases": [],
+      "urls": [
+        "https://www.onclive.com/insights"
+      ],
+      "keywords": [
+        "mrd",
+        "骨髓瘤"
+      ],
+      "first_published": "2026-09",
+      "report_slugs": [
+        "2026-09-07-mm-weekly"
+      ],
+      "sources": [
+        "OncLive - Multiple Myeloma"
+      ]
+    },
+    {
+      "topic_id": "topic-29d1fb811826",
+      "title": "日本骨髓腫患者の会持續整理醫療資訊、患者會訊與治驗資訊",
+      "normalized_title": "日本骨髓瘤患者会持續整理醫療資訊患者會訊與治驗資訊",
+      "title_aliases": [],
+      "urls": [
+        "https://mpfj.org/"
+      ],
+      "keywords": [],
+      "first_published": "2026-09",
+      "report_slugs": [
+        "2026-09-21-mm-weekly"
+      ],
+      "sources": [
+        "日本骨髓腫患者の会 MPFJ"
+      ]
+    },
+    {
+      "topic_id": "topic-7f1615851623",
+      "title": "血液及骨髓移植學會公告雙特異性抗體教育訓練課程",
+      "normalized_title": "血液及骨髓移植學會公告雙特異性抗體教育訓練課程",
+      "title_aliases": [],
+      "urls": [
+        "https://www.tbmt.org.tw/"
+      ],
+      "keywords": [],
+      "first_published": "2026-09",
+      "report_slugs": [
+        "2026-09-07-mm-weekly"
+      ],
+      "sources": [
+        "中華民國血液及骨髓移植學會"
       ]
     }
   ]
